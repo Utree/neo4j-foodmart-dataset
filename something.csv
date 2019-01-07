@@ -1,146 +1,136 @@
 ,unit_sales,the_year,the_month,day_of_month,the_day,store_country,store_state,store_type,yearly_income,gender,total_children,education,member_card,num_cars_owned
-1076,3,1998,3,9,Monday,USA,CA,Supermarket,$30K - $50K,M,0,High School Degree,Silver,3
-1225,2,1998,11,28,Saturday,USA,CA,Supermarket,$50K - $70K,F,0,Bachelors Degree,Bronze,3
-1934,3,1998,7,26,Sunday,USA,CA,Gourmet Supermarket,$10K - $30K,F,5,Partial High School,Normal,1
-1970,3,1997,8,1,Friday,USA,CA,Supermarket,$110K - $130K,F,1,High School Degree,Bronze,1
-2235,2,1998,8,22,Saturday,USA,CA,Gourmet Supermarket,$70K - $90K,F,1,Bachelors Degree,Bronze,3
-2237,3,1997,4,14,Monday,USA,CA,Gourmet Supermarket,$70K - $90K,F,1,Bachelors Degree,Bronze,3
-3228,2,1998,11,21,Saturday,USA,CA,Gourmet Supermarket,$30K - $50K,M,1,High School Degree,Bronze,2
-3342,3,1997,3,2,Sunday,USA,CA,Supermarket,$10K - $30K,F,3,Partial High School,Normal,1
-4267,3,1997,10,13,Monday,USA,CA,Supermarket,$30K - $50K,F,0,High School Degree,Normal,3
-4329,5,1997,12,2,Tuesday,USA,CA,Supermarket,$30K - $50K,F,4,Partial College,Bronze,2
-4838,3,1998,9,5,Saturday,USA,CA,Supermarket,$50K - $70K,M,0,Bachelors Degree,Bronze,1
-4948,4,1998,9,21,Monday,USA,CA,Gourmet Supermarket,$30K - $50K,F,2,High School Degree,Bronze,4
-5681,3,1997,4,27,Sunday,USA,CA,Supermarket,$50K - $70K,F,5,Bachelors Degree,Bronze,2
-5742,3,1997,12,29,Monday,USA,CA,Supermarket,$30K - $50K,M,4,High School Degree,Bronze,3
-5906,3,1997,7,5,Saturday,USA,CA,Supermarket,$90K - $110K,M,3,Partial High School,Bronze,3
-6121,3,1997,9,6,Saturday,USA,CA,Supermarket,$10K - $30K,F,4,Partial College,Normal,1
-6188,3,1997,12,4,Thursday,USA,CA,Supermarket,$30K - $50K,F,4,High School Degree,Silver,3
-6197,2,1997,5,19,Monday,USA,CA,Gourmet Supermarket,$70K - $90K,M,1,Bachelors Degree,Bronze,2
-6278,3,1998,4,26,Sunday,USA,CA,Supermarket,$30K - $50K,M,5,High School Degree,Normal,3
-7087,2,1997,3,2,Sunday,USA,CA,Supermarket,$30K - $50K,M,2,Bachelors Degree,Bronze,3
-7252,3,1998,10,12,Monday,USA,CA,Gourmet Supermarket,$70K - $90K,M,5,Bachelors Degree,Bronze,3
-7948,2,1997,7,17,Thursday,USA,CA,Gourmet Supermarket,$10K - $30K,M,3,Partial High School,Normal,1
-8282,4,1997,2,15,Saturday,USA,CA,Supermarket,$70K - $90K,M,2,Bachelors Degree,Bronze,3
-8283,3,1997,2,15,Saturday,USA,CA,Supermarket,$70K - $90K,M,2,Bachelors Degree,Bronze,3
-8540,4,1998,9,22,Tuesday,USA,CA,Supermarket,$10K - $30K,M,2,Partial High School,Normal,1
-9134,4,1998,8,11,Tuesday,USA,CA,Supermarket,$30K - $50K,M,4,Partial College,Bronze,2
-9531,3,1998,2,5,Thursday,USA,CA,Supermarket,$70K - $90K,F,3,Graduate Degree,Silver,2
-9570,4,1998,2,20,Friday,USA,CA,Supermarket,$10K - $30K,M,1,Partial High School,Normal,2
-9754,3,1998,11,6,Friday,USA,CA,Supermarket,$10K - $30K,F,3,Partial High School,Normal,0
-99328,2,1998,4,11,Saturday,USA,CA,Gourmet Supermarket,$10K - $30K,F,3,Partial High School,Bronze,1
-99614,3,1998,12,12,Saturday,USA,CA,Gourmet Supermarket,$150K +,F,3,Partial High School,Golden,2
-99933,3,1998,11,6,Friday,USA,CA,Supermarket,$30K - $50K,M,3,Partial High School,Golden,2
-100307,2,1997,12,10,Wednesday,USA,CA,Supermarket,$130K - $150K,F,0,Graduate Degree,Bronze,3
-100532,4,1997,9,18,Thursday,USA,CA,Gourmet Supermarket,$110K - $130K,F,3,Graduate Degree,Golden,3
-100645,3,1997,12,20,Saturday,USA,CA,Gourmet Supermarket,$30K - $50K,F,3,Bachelors Degree,Bronze,4
-101012,2,1998,9,21,Monday,USA,CA,Gourmet Supermarket,$30K - $50K,M,2,High School Degree,Silver,3
-101748,3,1998,5,2,Saturday,USA,CA,Gourmet Supermarket,$30K - $50K,M,4,Partial High School,Silver,4
-102363,3,1998,3,9,Monday,USA,CA,Supermarket,$10K - $30K,F,2,Partial High School,Normal,0
-102513,4,1997,11,21,Friday,USA,CA,Gourmet Supermarket,$30K - $50K,F,1,Partial High School,Bronze,2
-102850,3,1998,12,12,Saturday,USA,CA,Gourmet Supermarket,$30K - $50K,F,4,Partial College,Bronze,3
-102901,3,1998,2,21,Saturday,USA,CA,Gourmet Supermarket,$30K - $50K,F,1,Partial High School,Bronze,3
-102932,4,1997,12,13,Saturday,USA,CA,Gourmet Supermarket,$50K - $70K,M,1,Bachelors Degree,Silver,3
-103133,4,1998,5,2,Saturday,USA,CA,Gourmet Supermarket,$30K - $50K,M,5,Bachelors Degree,Bronze,1
-103539,2,1998,6,5,Friday,USA,CA,Gourmet Supermarket,$30K - $50K,M,1,High School Degree,Normal,3
-103664,3,1997,8,28,Thursday,USA,CA,Gourmet Supermarket,$10K - $30K,F,1,Partial High School,Normal,1
-103741,3,1998,10,12,Monday,USA,CA,Gourmet Supermarket,$70K - $90K,M,1,Graduate Degree,Bronze,2
-104273,4,1998,10,1,Thursday,USA,CA,Supermarket,$30K - $50K,M,0,Partial High School,Silver,3
-104621,3,1997,4,27,Sunday,USA,CA,Supermarket,$10K - $30K,F,0,Partial High School,Normal,2
-105063,4,1998,1,10,Saturday,USA,CA,Supermarket,$30K - $50K,M,3,Partial College,Bronze,2
-105583,1,1998,12,15,Tuesday,USA,CA,Small Grocery,$70K - $90K,M,1,High School Degree,Bronze,2
-105622,1,1997,7,16,Wednesday,USA,CA,Small Grocery,$50K - $70K,F,0,Bachelors Degree,Bronze,4
-105660,1,1997,3,20,Thursday,USA,CA,Small Grocery,$90K - $110K,F,3,Bachelors Degree,Normal,4
-106297,3,1997,3,9,Sunday,USA,CA,Supermarket,$30K - $50K,F,4,High School Degree,Golden,3
-106535,4,1997,3,9,Sunday,USA,CA,Supermarket,$70K - $90K,M,4,Partial High School,Golden,3
-106796,2,1998,12,22,Tuesday,USA,CA,Supermarket,$30K - $50K,M,1,High School Degree,Bronze,4
-107245,4,1998,10,18,Sunday,USA,CA,Supermarket,$30K - $50K,F,4,Bachelors Degree,Bronze,2
-107824,4,1998,6,20,Saturday,USA,CA,Supermarket,$10K - $30K,F,1,Partial High School,Normal,0
-107919,2,1997,12,18,Thursday,USA,CA,Supermarket,$70K - $90K,F,4,Bachelors Degree,Bronze,4
-107968,4,1997,11,25,Tuesday,USA,CA,Supermarket,$50K - $70K,M,4,Bachelors Degree,Bronze,2
-108267,2,1998,4,27,Monday,USA,CA,Supermarket,$10K - $30K,F,2,Partial High School,Normal,2
-108809,2,1997,4,5,Saturday,USA,CA,Supermarket,$10K - $30K,F,3,Partial High School,Normal,1
-108876,4,1998,10,10,Saturday,USA,CA,Supermarket,$30K - $50K,M,3,High School Degree,Bronze,4
-109309,4,1998,12,22,Tuesday,USA,CA,Supermarket,$110K - $130K,M,3,Graduate Degree,Bronze,1
-109351,3,1998,7,12,Sunday,USA,CA,Supermarket,$150K +,M,2,High School Degree,Golden,2
-109546,4,1997,1,6,Monday,USA,CA,Supermarket,$10K - $30K,M,2,Partial High School,Normal,1
-109586,3,1997,2,7,Friday,USA,CA,Supermarket,$110K - $130K,M,3,High School Degree,Bronze,3
-109963,3,1998,10,16,Friday,USA,CA,Supermarket,$30K - $50K,M,4,High School Degree,Bronze,3
-110084,3,1998,8,5,Wednesday,USA,CA,Supermarket,$70K - $90K,F,4,Bachelors Degree,Bronze,4
-110956,3,1997,5,2,Friday,USA,CA,Supermarket,$50K - $70K,F,2,Bachelors Degree,Bronze,1
-111110,4,1997,2,23,Sunday,USA,CA,Supermarket,$50K - $70K,F,4,Bachelors Degree,Golden,3
-111321,4,1997,12,27,Saturday,USA,CA,Supermarket,$30K - $50K,F,1,High School Degree,Bronze,2
-111903,4,1998,8,3,Monday,USA,CA,Supermarket,$10K - $30K,F,5,Partial High School,Normal,1
-193653,4,1997,4,16,Wednesday,USA,CA,Gourmet Supermarket,$30K - $50K,M,1,High School Degree,Bronze,3
-193839,3,1997,4,5,Saturday,USA,CA,Supermarket,$30K - $50K,M,3,Partial High School,Bronze,3
-193862,5,1997,4,7,Monday,USA,CA,Supermarket,$10K - $30K,M,3,Partial High School,Silver,2
-194067,2,1998,11,28,Saturday,USA,CA,Supermarket,$30K - $50K,F,4,High School Degree,Golden,2
-194213,4,1997,6,14,Saturday,USA,CA,Supermarket,$30K - $50K,M,1,High School Degree,Bronze,2
-194520,3,1997,10,27,Monday,USA,CA,Gourmet Supermarket,$130K - $150K,F,4,Bachelors Degree,Bronze,1
-203471,4,1997,11,13,Thursday,USA,CA,Supermarket,$70K - $90K,M,4,Bachelors Degree,Bronze,2
-203526,2,1997,4,22,Tuesday,USA,CA,Gourmet Supermarket,$70K - $90K,M,1,Bachelors Degree,Bronze,2
-203623,2,1997,6,22,Sunday,USA,CA,Supermarket,$30K - $50K,F,3,Partial College,Golden,4
-203999,4,1997,12,16,Tuesday,USA,CA,Gourmet Supermarket,$50K - $70K,F,5,Partial College,Bronze,4
-204031,4,1998,1,17,Saturday,USA,CA,Gourmet Supermarket,$130K - $150K,M,1,Bachelors Degree,Silver,3
-204951,4,1997,6,23,Monday,USA,CA,Supermarket,$70K - $90K,M,4,High School Degree,Golden,1
-205102,3,1997,5,21,Wednesday,USA,CA,Supermarket,$30K - $50K,M,2,High School Degree,Bronze,1
-205133,3,1998,1,7,Wednesday,USA,CA,Supermarket,$70K - $90K,M,4,Bachelors Degree,Bronze,3
-205134,3,1997,6,4,Wednesday,USA,CA,Supermarket,$70K - $90K,M,4,Bachelors Degree,Bronze,3
-205561,3,1997,2,3,Monday,USA,CA,Supermarket,$30K - $50K,F,1,High School Degree,Bronze,2
-215167,2,1998,6,19,Friday,USA,CA,Gourmet Supermarket,$70K - $90K,F,2,Bachelors Degree,Silver,2
-215188,2,1998,11,17,Tuesday,USA,CA,Gourmet Supermarket,$90K - $110K,M,4,Graduate Degree,Bronze,4
-215213,3,1997,8,15,Friday,USA,CA,Supermarket,$150K +,M,1,Partial High School,Golden,2
-215335,3,1997,11,8,Saturday,USA,CA,Supermarket,$130K - $150K,F,3,Partial College,Bronze,3
-215414,3,1997,11,8,Saturday,USA,CA,Supermarket,$50K - $70K,M,4,Bachelors Degree,Bronze,3
-215699,4,1998,8,24,Monday,USA,CA,Supermarket,$70K - $90K,F,5,Bachelors Degree,Silver,2
-215901,4,1998,6,25,Thursday,USA,CA,Supermarket,$10K - $30K,F,3,High School Degree,Normal,1
-215969,3,1997,12,16,Tuesday,USA,CA,Gourmet Supermarket,$30K - $50K,M,3,High School Degree,Silver,2
-216948,3,1998,11,2,Monday,USA,CA,Gourmet Supermarket,$50K - $70K,M,1,Bachelors Degree,Silver,3
-217071,3,1997,12,2,Tuesday,USA,CA,Supermarket,$30K - $50K,F,2,High School Degree,Bronze,3
-217535,2,1997,5,14,Wednesday,USA,CA,Supermarket,$90K - $110K,M,5,Partial College,Bronze,3
-217839,3,1998,5,7,Thursday,USA,CA,Gourmet Supermarket,$10K - $30K,M,3,Partial High School,Normal,1
-217974,6,1998,2,13,Friday,USA,CA,Supermarket,$110K - $130K,M,5,Partial College,Bronze,1
-218299,3,1997,9,8,Monday,USA,CA,Supermarket,$70K - $90K,M,1,Bachelors Degree,Bronze,3
-218429,3,1998,6,23,Tuesday,USA,CA,Supermarket,$30K - $50K,F,4,High School Degree,Bronze,4
-218664,2,1997,8,4,Monday,USA,CA,Supermarket,$50K - $70K,M,5,High School Degree,Silver,2
-218957,4,1998,1,16,Friday,USA,CA,Gourmet Supermarket,$130K - $150K,M,2,Partial College,Bronze,1
-219059,3,1998,1,3,Saturday,USA,CA,Supermarket,$30K - $50K,M,3,High School Degree,Golden,2
-219697,3,1997,4,14,Monday,USA,CA,Gourmet Supermarket,$10K - $30K,M,3,Partial High School,Normal,1
-220379,3,1998,12,10,Thursday,USA,CA,Gourmet Supermarket,$110K - $130K,F,1,High School Degree,Bronze,2
-220418,3,1997,9,5,Friday,USA,CA,Supermarket,$130K - $150K,M,3,Bachelors Degree,Bronze,4
-220733,2,1997,9,19,Friday,USA,CA,Supermarket,$70K - $90K,M,3,High School Degree,Golden,2
-220810,3,1997,11,2,Sunday,USA,CA,Supermarket,$30K - $50K,F,5,Partial High School,Bronze,3
-221268,3,1997,1,12,Sunday,USA,CA,Supermarket,$10K - $30K,F,4,Partial High School,Normal,1
-232326,4,1998,1,17,Saturday,USA,CA,Gourmet Supermarket,$30K - $50K,M,1,High School Degree,Bronze,3
-232750,3,1998,1,5,Monday,USA,CA,Gourmet Supermarket,$30K - $50K,F,1,High School Degree,Bronze,3
-233292,3,1998,11,17,Tuesday,USA,CA,Gourmet Supermarket,$110K - $130K,M,1,Bachelors Degree,Bronze,3
-233694,2,1998,9,11,Friday,USA,CA,Gourmet Supermarket,$50K - $70K,M,0,Bachelors Degree,Normal,2
-233807,4,1997,8,26,Tuesday,USA,CA,Gourmet Supermarket,$10K - $30K,F,4,Partial High School,Normal,2
-234126,2,1998,1,12,Monday,USA,CA,Gourmet Supermarket,$10K - $30K,F,5,Partial High School,Normal,1
-234992,2,1998,1,11,Sunday,USA,CA,Small Grocery,$130K - $150K,F,1,Partial High School,Bronze,3
-235027,2,1998,7,17,Friday,USA,CA,Small Grocery,$30K - $50K,M,1,High School Degree,Bronze,2
-235134,1,1997,12,18,Thursday,USA,CA,Small Grocery,$90K - $110K,F,4,Graduate Degree,Silver,4
-235156,2,1998,3,25,Wednesday,USA,CA,Small Grocery,$30K - $50K,F,3,Partial College,Bronze,4
-235783,2,1998,9,11,Friday,USA,CA,Supermarket,$30K - $50K,M,1,Partial High School,Silver,2
-235969,4,1997,4,13,Sunday,USA,CA,Supermarket,$50K - $70K,M,1,Bachelors Degree,Silver,2
-236254,4,1997,10,22,Wednesday,USA,CA,Supermarket,$10K - $30K,M,1,Partial High School,Bronze,1
-236496,2,1997,5,7,Wednesday,USA,CA,Supermarket,$30K - $50K,M,0,High School Degree,Bronze,3
-236521,3,1997,5,7,Wednesday,USA,CA,Supermarket,$30K - $50K,F,3,High School Degree,Bronze,1
-236643,5,1998,4,19,Sunday,USA,CA,Supermarket,$50K - $70K,F,3,Bachelors Degree,Bronze,3
-236770,3,1998,4,25,Saturday,USA,CA,Supermarket,$30K - $50K,M,2,Partial High School,Bronze,3
-237119,2,1998,12,22,Tuesday,USA,CA,Supermarket,$10K - $30K,M,2,Partial High School,Normal,1
-237197,3,1997,9,7,Sunday,USA,CA,Supermarket,$30K - $50K,M,4,Partial College,Bronze,3
-237531,4,1998,6,20,Saturday,USA,CA,Supermarket,$50K - $70K,M,3,Bachelors Degree,Silver,3
-237571,3,1998,6,20,Saturday,USA,CA,Supermarket,$50K - $70K,M,1,Bachelors Degree,Bronze,2
-238186,3,1997,6,20,Friday,USA,CA,Supermarket,$50K - $70K,M,3,Bachelors Degree,Silver,2
-238218,3,1998,12,12,Saturday,USA,CA,Supermarket,$50K - $70K,M,1,Bachelors Degree,Bronze,1
-238219,3,1997,8,21,Thursday,USA,CA,Supermarket,$50K - $70K,M,1,Bachelors Degree,Bronze,1
-238734,4,1998,12,22,Tuesday,USA,CA,Supermarket,$150K +,F,4,Graduate Degree,Golden,3
-238955,3,1997,6,4,Wednesday,USA,CA,Supermarket,$70K - $90K,F,2,High School Degree,Bronze,2
-239275,3,1998,10,10,Saturday,USA,CA,Supermarket,$30K - $50K,F,1,High School Degree,Bronze,2
-239372,2,1998,2,15,Sunday,USA,CA,Supermarket,$30K - $50K,F,3,Partial High School,Bronze,4
-239610,3,1997,11,14,Friday,USA,CA,Supermarket,$10K - $30K,M,2,Partial High School,Normal,2
-240337,3,1998,8,2,Sunday,USA,CA,Supermarket,$50K - $70K,F,2,Bachelors Degree,Bronze,2
-240472,2,1998,7,12,Sunday,USA,CA,Supermarket,$150K +,M,4,High School Degree,Golden,3
-240674,3,1997,7,17,Thursday,USA,CA,Supermarket,$30K - $50K,M,1,High School Degree,Bronze,3
-241731,3,1997,7,22,Tuesday,USA,CA,Supermarket,$130K - $150K,M,5,Partial High School,Normal,3
+932,3,1998,9,20,Sunday,USA,CA,Gourmet Supermarket,$30K - $50K,M,5,High School Degree,Bronze,4
+998,3,1997,6,22,Sunday,USA,CA,Supermarket,$70K - $90K,M,5,High School Degree,Golden,2
+2194,3,1997,4,14,Monday,USA,CA,Gourmet Supermarket,$30K - $50K,M,0,Partial College,Bronze,1
+2678,3,1998,8,24,Monday,USA,CA,Supermarket,$130K - $150K,M,1,High School Degree,Bronze,4
+3389,3,1997,1,19,Sunday,USA,CA,Supermarket,$30K - $50K,M,1,High School Degree,Bronze,2
+3950,2,1997,9,8,Monday,USA,CA,Gourmet Supermarket,$30K - $50K,F,0,High School Degree,Bronze,3
+4052,4,1997,4,27,Sunday,USA,CA,Supermarket,$30K - $50K,M,1,High School Degree,Bronze,3
+4593,4,1997,8,4,Monday,USA,CA,Supermarket,$30K - $50K,M,0,High School Degree,Bronze,3
+5991,3,1997,2,16,Sunday,USA,CA,Supermarket,$50K - $70K,F,3,Partial College,Bronze,3
+6612,3,1998,2,6,Friday,USA,CA,Supermarket,$70K - $90K,M,5,High School Degree,Silver,2
+7916,2,1998,10,26,Monday,USA,CA,Gourmet Supermarket,$50K - $70K,M,2,Bachelors Degree,Bronze,2
+8130,2,1998,4,18,Saturday,USA,CA,Supermarket,$50K - $70K,F,2,Bachelors Degree,Bronze,1
+8131,3,1997,5,1,Thursday,USA,CA,Supermarket,$50K - $70K,F,2,Bachelors Degree,Bronze,1
+8132,3,1997,1,12,Sunday,USA,CA,Supermarket,$50K - $70K,F,2,Bachelors Degree,Bronze,1
+8789,3,1998,10,1,Thursday,USA,CA,Supermarket,$50K - $70K,M,0,Bachelors Degree,Bronze,3
+10026,2,1997,6,5,Thursday,USA,CA,Supermarket,$50K - $70K,F,3,Bachelors Degree,Normal,3
+10042,4,1997,8,5,Tuesday,USA,CA,Gourmet Supermarket,$30K - $50K,M,4,High School Degree,Bronze,3
+10128,3,1997,8,7,Thursday,USA,CA,Supermarket,$110K - $130K,F,1,High School Degree,Bronze,3
+99470,4,1998,8,28,Friday,USA,CA,Supermarket,$10K - $30K,M,4,Partial High School,Normal,0
+99549,4,1997,1,11,Saturday,USA,CA,Gourmet Supermarket,$130K - $150K,F,5,Bachelors Degree,Golden,3
+99703,3,1998,6,11,Thursday,USA,CA,Gourmet Supermarket,$30K - $50K,F,4,High School Degree,Bronze,1
+100372,4,1997,6,15,Sunday,USA,CA,Gourmet Supermarket,$50K - $70K,F,4,Bachelors Degree,Bronze,3
+101062,2,1997,10,15,Wednesday,USA,CA,Gourmet Supermarket,$10K - $30K,F,4,Partial High School,Normal,0
+101915,2,1997,5,9,Friday,USA,CA,Supermarket,$50K - $70K,M,4,Bachelors Degree,Bronze,3
+101917,2,1997,9,19,Friday,USA,CA,Supermarket,$50K - $70K,M,4,Bachelors Degree,Bronze,3
+102218,3,1997,9,8,Monday,USA,CA,Gourmet Supermarket,$150K +,F,5,High School Degree,Golden,4
+102566,3,1997,10,7,Tuesday,USA,CA,Gourmet Supermarket,$10K - $30K,F,1,Partial High School,Normal,2
+102931,4,1997,2,13,Thursday,USA,CA,Supermarket,$50K - $70K,M,1,Bachelors Degree,Silver,3
+103740,4,1997,6,12,Thursday,USA,CA,Supermarket,$70K - $90K,M,1,Graduate Degree,Bronze,2
+103819,4,1998,12,8,Tuesday,USA,CA,Gourmet Supermarket,$30K - $50K,F,4,High School Degree,Silver,2
+104302,4,1997,7,11,Friday,USA,CA,Gourmet Supermarket,$50K - $70K,F,3,Partial High School,Bronze,4
+105849,2,1997,1,4,Saturday,USA,CA,Small Grocery,$110K - $130K,F,1,Graduate Degree,Bronze,2
+105897,4,1997,9,23,Tuesday,USA,CA,Supermarket,$30K - $50K,M,0,High School Degree,Bronze,3
+107524,3,1997,7,22,Tuesday,USA,CA,Supermarket,$50K - $70K,F,0,Bachelors Degree,Silver,1
+108199,3,1998,6,14,Sunday,USA,CA,Supermarket,$10K - $30K,M,1,Partial High School,Bronze,2
+108226,2,1998,6,20,Saturday,USA,CA,Supermarket,$30K - $50K,F,2,High School Degree,Bronze,2
+108660,3,1998,9,22,Tuesday,USA,CA,Supermarket,$30K - $50K,M,0,High School Degree,Bronze,1
+109089,4,1998,12,23,Wednesday,USA,CA,Supermarket,$50K - $70K,F,5,Bachelors Degree,Silver,3
+109441,2,1997,1,17,Friday,USA,CA,Supermarket,$50K - $70K,F,2,Bachelors Degree,Bronze,3
+109815,3,1997,10,19,Sunday,USA,CA,Supermarket,$50K - $70K,F,2,Bachelors Degree,Bronze,3
+110165,4,1998,5,13,Wednesday,USA,CA,Supermarket,$30K - $50K,F,1,High School Degree,Bronze,3
+110168,3,1997,12,27,Saturday,USA,CA,Supermarket,$30K - $50K,F,1,High School Degree,Bronze,3
+110480,3,1997,3,3,Monday,USA,CA,Supermarket,$130K - $150K,M,1,Bachelors Degree,Bronze,3
+111125,3,1997,4,4,Friday,USA,CA,Supermarket,$10K - $30K,M,2,Partial High School,Normal,1
+111979,3,1997,3,9,Sunday,USA,CA,Supermarket,$10K - $30K,M,0,Partial High School,Normal,1
+193148,2,1998,5,13,Wednesday,USA,CA,Supermarket,$30K - $50K,F,4,High School Degree,Golden,3
+193180,2,1997,6,14,Saturday,USA,CA,Supermarket,$50K - $70K,M,1,Bachelors Degree,Golden,4
+193211,3,1998,12,8,Tuesday,USA,CA,Supermarket,$30K - $50K,M,1,High School Degree,Golden,2
+193212,3,1997,4,13,Sunday,USA,CA,Gourmet Supermarket,$30K - $50K,M,1,High School Degree,Golden,2
+193434,3,1998,7,18,Saturday,USA,CA,Supermarket,$50K - $70K,M,2,Bachelors Degree,Bronze,3
+193911,3,1997,10,13,Monday,USA,CA,Supermarket,$30K - $50K,M,3,High School Degree,Bronze,3
+193926,3,1997,6,14,Saturday,USA,CA,Supermarket,$30K - $50K,M,2,High School Degree,Bronze,2
+193975,4,1998,10,28,Wednesday,USA,CA,Gourmet Supermarket,$30K - $50K,M,2,Partial College,Bronze,1
+194369,4,1998,7,25,Saturday,USA,CA,Gourmet Supermarket,$30K - $50K,M,1,High School Degree,Bronze,3
+194417,3,1998,4,26,Sunday,USA,CA,Gourmet Supermarket,$10K - $30K,F,2,Partial High School,Normal,0
+194624,3,1998,2,9,Monday,USA,CA,Gourmet Supermarket,$30K - $50K,M,5,High School Degree,Normal,1
+203280,3,1998,3,27,Friday,USA,CA,Gourmet Supermarket,$50K - $70K,M,4,Bachelors Degree,Silver,2
+203550,4,1998,5,3,Sunday,USA,CA,Gourmet Supermarket,$70K - $90K,F,1,Bachelors Degree,Bronze,3
+203641,4,1998,11,5,Thursday,USA,CA,Supermarket,$50K - $70K,M,1,Bachelors Degree,Bronze,2
+204087,3,1998,11,6,Friday,USA,CA,Supermarket,$50K - $70K,F,1,High School Degree,Bronze,3
+204443,4,1998,3,3,Tuesday,USA,CA,Supermarket,$150K +,F,4,Partial High School,Silver,1
+205090,2,1997,4,16,Wednesday,USA,CA,Supermarket,$90K - $110K,M,3,Bachelors Degree,Bronze,1
+205209,2,1998,9,11,Friday,USA,CA,Supermarket,$50K - $70K,M,0,Bachelors Degree,Bronze,1
+205784,3,1998,9,16,Wednesday,USA,CA,Supermarket,$70K - $90K,M,2,Bachelors Degree,Bronze,1
+205961,2,1997,8,2,Saturday,USA,CA,Supermarket,$30K - $50K,M,4,Partial College,Bronze,3
+214502,2,1998,7,12,Sunday,USA,CA,Supermarket,$30K - $50K,M,4,High School Degree,Bronze,2
+214777,3,1997,1,20,Monday,USA,CA,Supermarket,$50K - $70K,M,3,Partial College,Bronze,1
+215536,3,1997,4,20,Sunday,USA,CA,Gourmet Supermarket,$10K - $30K,M,5,Partial High School,Normal,2
+215676,5,1998,5,24,Sunday,USA,CA,Supermarket,$30K - $50K,F,3,High School Degree,Bronze,1
+216272,3,1998,11,11,Wednesday,USA,CA,Supermarket,$130K - $150K,F,1,High School Degree,Bronze,3
+216919,3,1997,7,14,Monday,USA,CA,Supermarket,$10K - $30K,F,5,Partial High School,Normal,2
+217679,4,1998,2,5,Thursday,USA,CA,Supermarket,$150K +,F,4,Partial High School,Golden,3
+218366,3,1998,11,2,Monday,USA,CA,Gourmet Supermarket,$30K - $50K,F,4,Partial High School,Bronze,3
+218428,5,1997,7,23,Wednesday,USA,CA,Supermarket,$30K - $50K,F,4,High School Degree,Bronze,4
+218517,3,1997,7,5,Saturday,USA,CA,Supermarket,$30K - $50K,F,3,High School Degree,Bronze,2
+218632,2,1998,7,18,Saturday,USA,CA,Supermarket,$30K - $50K,M,0,High School Degree,Bronze,3
+218683,4,1997,8,4,Monday,USA,CA,Supermarket,$30K - $50K,M,1,Partial High School,Bronze,3
+218813,3,1997,5,16,Friday,USA,CA,Supermarket,$50K - $70K,F,1,Bachelors Degree,Bronze,1
+218869,3,1998,4,20,Monday,USA,CA,Gourmet Supermarket,$30K - $50K,M,3,High School Degree,Normal,2
+219099,2,1998,8,13,Thursday,USA,CA,Gourmet Supermarket,$70K - $90K,M,3,Bachelors Degree,Bronze,1
+219278,3,1997,4,5,Saturday,USA,CA,Supermarket,$30K - $50K,F,0,Partial College,Bronze,2
+219279,3,1998,7,26,Sunday,USA,CA,Gourmet Supermarket,$30K - $50K,F,0,Partial College,Bronze,2
+219873,3,1998,6,23,Tuesday,USA,CA,Supermarket,$70K - $90K,M,4,Bachelors Degree,Normal,3
+220043,4,1997,4,22,Tuesday,USA,CA,Gourmet Supermarket,$130K - $150K,F,0,High School Degree,Bronze,2
+220345,4,1997,5,21,Wednesday,USA,CA,Supermarket,$110K - $130K,F,3,High School Degree,Bronze,3
+220396,3,1997,3,2,Sunday,USA,CA,Supermarket,$70K - $90K,M,4,Graduate Degree,Bronze,3
+220657,4,1998,3,5,Thursday,USA,CA,Supermarket,$30K - $50K,M,2,High School Degree,Bronze,2
+220937,3,1998,2,15,Sunday,USA,CA,Gourmet Supermarket,$30K - $50K,M,4,High School Degree,Bronze,4
+220986,2,1998,2,5,Thursday,USA,CA,Supermarket,$110K - $130K,F,3,Partial High School,Golden,2
+221070,3,1998,8,24,Monday,USA,CA,Gourmet Supermarket,$70K - $90K,F,2,Graduate Degree,Bronze,2
+232490,4,1998,7,25,Saturday,USA,CA,Gourmet Supermarket,$90K - $110K,M,3,Partial College,Bronze,3
+232502,3,1998,11,21,Saturday,USA,CA,Gourmet Supermarket,$10K - $30K,F,0,Partial High School,Normal,1
+232572,3,1998,6,22,Monday,USA,CA,Gourmet Supermarket,$70K - $90K,F,2,Bachelors Degree,Bronze,4
+233025,3,1998,5,3,Sunday,USA,CA,Gourmet Supermarket,$90K - $110K,F,0,Bachelors Degree,Bronze,2
+233380,5,1998,12,7,Monday,USA,CA,Gourmet Supermarket,$30K - $50K,M,3,Partial High School,Bronze,2
+233475,5,1997,4,22,Tuesday,USA,CA,Gourmet Supermarket,$30K - $50K,F,4,High School Degree,Bronze,1
+233576,4,1998,5,2,Saturday,USA,CA,Gourmet Supermarket,$30K - $50K,F,1,High School Degree,Bronze,4
+234849,4,1997,8,17,Sunday,USA,CA,Gourmet Supermarket,$50K - $70K,F,1,Bachelors Degree,Bronze,2
+235210,1,1998,12,15,Tuesday,USA,CA,Small Grocery,$30K - $50K,M,2,High School Degree,Bronze,3
+235243,1,1997,5,18,Sunday,USA,CA,Small Grocery,$90K - $110K,F,3,Bachelors Degree,Bronze,2
+235398,2,1998,10,16,Friday,USA,CA,Small Grocery,$30K - $50K,F,1,Partial High School,Silver,2
+235420,1,1998,4,2,Thursday,USA,CA,Small Grocery,$30K - $50K,F,1,Partial High School,Bronze,2
+235505,2,1997,10,17,Friday,USA,CA,Small Grocery,$30K - $50K,F,3,High School Degree,Bronze,1
+235556,2,1998,2,15,Sunday,USA,CA,Small Grocery,$10K - $30K,M,3,Partial High School,Normal,0
+235673,2,1997,12,30,Tuesday,USA,CA,Small Grocery,$30K - $50K,F,4,High School Degree,Bronze,3
+236017,2,1997,11,8,Saturday,USA,CA,Supermarket,$10K - $30K,M,0,Partial High School,Normal,2
+236323,4,1998,8,3,Monday,USA,CA,Supermarket,$50K - $70K,F,2,Bachelors Degree,Bronze,2
+236350,4,1998,10,26,Monday,USA,CA,Supermarket,$130K - $150K,M,4,Partial High School,Bronze,4
+236427,3,1998,12,23,Wednesday,USA,CA,Supermarket,$30K - $50K,F,0,Partial High School,Golden,3
+236448,3,1997,1,15,Wednesday,USA,CA,Supermarket,$130K - $150K,M,1,High School Degree,Bronze,2
+236616,4,1997,11,8,Saturday,USA,CA,Supermarket,$50K - $70K,M,1,Bachelors Degree,Golden,3
+236853,4,1998,9,28,Monday,USA,CA,Supermarket,$50K - $70K,M,1,Bachelors Degree,Bronze,1
+236887,3,1997,11,15,Saturday,USA,CA,Supermarket,$10K - $30K,M,1,Partial High School,Normal,1
+236982,2,1998,8,3,Monday,USA,CA,Supermarket,$90K - $110K,F,2,High School Degree,Silver,2
+236998,3,1998,8,3,Monday,USA,CA,Supermarket,$130K - $150K,F,0,Partial College,Bronze,1
+237245,4,1998,11,1,Sunday,USA,CA,Supermarket,$30K - $50K,M,2,High School Degree,Bronze,2
+237621,2,1998,11,6,Friday,USA,CA,Supermarket,$70K - $90K,M,4,Bachelors Degree,Bronze,3
+238034,2,1998,12,8,Tuesday,USA,CA,Supermarket,$70K - $90K,F,2,Bachelors Degree,Bronze,2
+238135,3,1998,12,23,Wednesday,USA,CA,Supermarket,$30K - $50K,M,0,High School Degree,Bronze,1
+238240,3,1997,12,18,Thursday,USA,CA,Supermarket,$90K - $110K,M,4,Graduate Degree,Bronze,3
+238337,3,1998,3,25,Wednesday,USA,CA,Supermarket,$150K +,F,2,Bachelors Degree,Silver,1
+238521,3,1998,3,3,Tuesday,USA,CA,Supermarket,$30K - $50K,F,2,Partial College,Golden,1
+238615,4,1998,5,8,Friday,USA,CA,Supermarket,$50K - $70K,F,3,Bachelors Degree,Bronze,1
+238815,2,1997,4,4,Friday,USA,CA,Supermarket,$70K - $90K,F,2,Partial High School,Bronze,2
+238966,4,1997,6,4,Wednesday,USA,CA,Supermarket,$10K - $30K,M,1,Partial High School,Normal,1
+239157,4,1998,8,5,Wednesday,USA,CA,Supermarket,$50K - $70K,M,4,Bachelors Degree,Bronze,3
+239785,3,1997,6,23,Monday,USA,CA,Supermarket,$30K - $50K,M,3,High School Degree,Bronze,1
+239979,2,1998,3,26,Thursday,USA,CA,Supermarket,$30K - $50K,M,0,High School Degree,Silver,3
+240184,4,1997,3,3,Monday,USA,CA,Supermarket,$30K - $50K,F,1,Graduate Degree,Bronze,1
+240275,3,1997,12,7,Sunday,USA,CA,Supermarket,$70K - $90K,M,4,Partial High School,Bronze,2
+240788,4,1997,11,9,Sunday,USA,CA,Supermarket,$70K - $90K,F,5,Partial High School,Bronze,4
+241145,4,1998,6,13,Saturday,USA,CA,Supermarket,$130K - $150K,F,0,Partial High School,Bronze,2
+241201,3,1997,9,13,Saturday,USA,CA,Supermarket,$30K - $50K,M,3,Partial College,Silver,1
+241225,2,1997,2,5,Wednesday,USA,CA,Supermarket,$30K - $50K,F,5,High School Degree,Normal,3
+241257,4,1998,4,6,Monday,USA,CA,Supermarket,$30K - $50K,F,3,High School Degree,Bronze,2

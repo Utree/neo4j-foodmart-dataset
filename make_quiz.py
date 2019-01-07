@@ -33,7 +33,7 @@ sales_data = pd.merge(sales_data, product_class_ds)
 sales_data = pd.merge(sales_data, customer_ds)
 
 # カリフォルニア州で売られたOnionのデータを選択
-something = sales_data[(sales_data["store_state"] == "CA") & (sales_data["product_name"].str.contains("Onions"))]
+something = sales_data[(sales_data["store_state"] == "CA") & (sales_data["product_name"].str.contains("Asparagus"))]
 
 
 # カラムを絞る
