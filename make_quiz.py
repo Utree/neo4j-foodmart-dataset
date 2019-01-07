@@ -38,6 +38,7 @@ something = sales_data[(sales_data["store_state"] == "CA") & (sales_data["produc
 
 # カラムを絞る
 '''
+unit_sales      : 購入個数
 the_year    	: 購入した年
 the_month   	: 購入した月
 day_of_month	: 購入した日
@@ -52,7 +53,7 @@ education   	: 最終学歴
 member_card  	: メンバーカードのグレード
 num_cars_owned	: 所有車数
 '''
-something = something[["the_year", "the_month", "day_of_month", "the_day","store_country", "store_state", "store_type", "yearly_income", "gender", "total_children", "education", "member_card", "num_cars_owned"]]
+something = something[["unit_sales", "the_year", "the_month", "day_of_month", "the_day","store_country", "store_state", "store_type", "yearly_income", "gender", "total_children", "education", "member_card", "num_cars_owned"]]
 
 # csv形式で出力
 something.to_csv(THIS_FILE_PATH + 'something.csv')
